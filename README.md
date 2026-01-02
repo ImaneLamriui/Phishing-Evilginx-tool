@@ -37,3 +37,23 @@ Evilginx CAPTURA la session cookie y se la entrega al atacante.
  3-Vigilar actividad de sesión
  4- No confiar solo en el candado HTTPS.
  5-Usar navegadores con aislamiento de sitios y extensiones de seguridad que alerten sobre phishlets o proxies sospechosos.
+
+
+ <img src="1.jpg">
+
+
+<img src="2.jpg">
+
+
+<img src="3.jpg">
+
+
+<img src="4.jpg">
+
+
+<img src="5.jpg">
+
+
+<img src="6.jpg">
+
+
